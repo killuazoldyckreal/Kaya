@@ -2,6 +2,12 @@
 
 Loda Music is a versatile Discord music bot that supports various platforms like YouTube, Soundcloud, Spotify, Twitch, and more.
 
+## Add Loda Music to Your Server
+
+<a href="https://discord.com/oauth2/authorize?client_id=1063477003191337101&permissions=6479531328&scope=applications.commands+bot">
+    <img src="https://img.shields.io/badge/Invite_Me-brightgreen?style=for-the-badge" alt="Invite Me">
+</a>
+
 <img src="https://cdn.discordapp.com/attachments/1064128534097960960/1234399390253187073/maxresdefault.jpg?ex=66309784&is=662f4604&hm=8139c97ee548045e856b97fe139d0b9628adef52157cddc9fe064a1e6c96f937&">
 
 ## Screenshot
@@ -97,10 +103,4 @@ For support, join our Discord server
 
 <a href="https://discord.gg/qYkzu5cpeK">
     <img src="https://img.shields.io/discord/1120796218382106808?color=7289DA&label=Support&logo=discord&style=for-the-badge" alt="Discord">
-</a>
-
-## Invite Loda Music to Your Server
-
-<a href="https://discord.com/oauth2/authorize?client_id=1063477003191337101&permissions=6479531328&scope=applications.commands+bot">
-    <img src="https://img.shields.io/badge/Invite_Me-brightgreen?style=for-the-badge" alt="Invite Me">
 </a>
