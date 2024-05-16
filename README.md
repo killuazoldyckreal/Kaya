@@ -8,7 +8,7 @@ Kaya is a versatile Discord music bot that supports various platforms like YouTu
     <img src="https://img.shields.io/badge/Invite_Me-brightgreen?style=for-the-badge" alt="Invite Me">
 </a>
 
-<img src="https://cdn.discordapp.com/attachments/1064128534097960960/1234399390253187073/maxresdefault.jpg?ex=66309784&is=662f4604&hm=8139c97ee548045e856b97fe139d0b9628adef52157cddc9fe064a1e6c96f937&">
+<img src="https://i.imgur.com/PZGw3a6.jpeg">
 
 ## Features
 
