@@ -1,21 +1,14 @@
-# Loda Music Bot
+# Kaya Music Bot
 
-Loda Music is a versatile Discord music bot that supports various platforms like YouTube, Soundcloud, Spotify, Twitch, and more.
+Kaya is a versatile Discord music bot that supports various platforms like YouTube, Soundcloud, Spotify, Twitch, and more.
 
-## Add Loda Music to Your Server
+## Add Kaya to Your Server
 
 <a href="https://discord.com/oauth2/authorize?client_id=1063477003191337101&permissions=6479531328&scope=applications.commands+bot">
     <img src="https://img.shields.io/badge/Invite_Me-brightgreen?style=for-the-badge" alt="Invite Me">
 </a>
 
 <img src="https://cdn.discordapp.com/attachments/1064128534097960960/1234399390253187073/maxresdefault.jpg?ex=66309784&is=662f4604&hm=8139c97ee548045e856b97fe139d0b9628adef52157cddc9fe064a1e6c96f937&">
-
-## Screenshot
-### Discord Bot
-<img src="https://cdn.discordapp.com/attachments/1064128534097960960/1234186531888169071/image.png?ex=662fd147&is=662e7fc7&hm=6ccd0110d92669e14c4ff6201759636406f9d4fe7fe478b48f3a48d6908bc0cc&">
-<img src="https://cdn.discordapp.com/attachments/1064128534097960960/1234400489890910229/image.png?ex=6630988a&is=662f470a&hm=57e1b1c5510e3cb1c12b9e77fc5543301f1ead36415712b198eaf755a739f81a&">
-<img src="https://cdn.discordapp.com/attachments/1064128534097960960/1234187352369266718/image.png?ex=662fd20a&is=662e808a&hm=6d589c7c916b83d1efe7c7c8f6fce8ab43730cbe7c1b0b303772a0e52ac200b9&">
-<img src="https://cdn.discordapp.com/attachments/1064128534097960960/1234188104567488522/image.png?ex=662fd2be&is=662e813e&hm=70cb0c586efc5907a0d63027077dde2bed39d801805e245e1168f97a010b84f6&">
 
 ## Features
 
